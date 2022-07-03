@@ -5,7 +5,7 @@ function Header(){
         <header className="header">
         <div className="toolbar">
             <div>
-                <a href="/">Braid - Alteração</a>
+                <a href="/">Braid</a>
             </div>
             <div>
                 <button> New Post</button>
